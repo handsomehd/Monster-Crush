@@ -1,8 +1,10 @@
 # Monster Crush
 ![Logo](./picture/LOGO.png)
+
 ---
 ## 一、遊戲講解
 MonsterCrush是一款仿Candy Crush的遊戲，本專案利用 Java 程式語言之 GUI 實作之。
+
 ---
 ## 二、檔案說明
 |物件檔案 | 說明|
@@ -16,6 +18,7 @@ MonsterCrush是一款仿Candy Crush的遊戲，本專案利用 Java 程式語言
 |MonsterUserpanel.java |遊戲介面之使用者資訊欄 |
 |Monsterkill.java |運算邏輯 |
 |MonsterUserpanel.java |使用者資料 |
+
 ---
 ## 三、安裝說明
 1. 確認電腦有無下載 Java。
@@ -26,6 +29,7 @@ MonsterCrush是一款仿Candy Crush的遊戲，本專案利用 Java 程式語言
     > javac MonsterStart
 5. 輸入 java MonsterStart 進行遊戲。
     > java MonsterStart
+
 ---
 ## 四、遊戲規則
 * 基本玩法
@@ -36,6 +40,7 @@ MonsterCrush是一款仿Candy Crush的遊戲，本專案利用 Java 程式語言
     1. 消除L或T字型怪物獲得炸彈，可消除指定位置九宮格所有怪物。
     2. 消除4連怪物可獲得對應方向的消除道具，消除對應方向所有怪物。
     3. 消除5連怪物可獲得埋葬，可消除某種指定的全部怪物。
+
 
 
 
